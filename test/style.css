@@ -1,0 +1,59 @@
+@font-face {
+	font-family: adbxtra;
+	src: url('adbxtra.ttf');
+}
+@font-face {
+	font-family: AdvoCut;
+	src: url('AdvoCut.ttf');
+}
+@font-face {
+	font-family: adbxtsc;
+	src: url('adbxtsc.ttf');
+}
+@font-face {
+	font-family: "AuX DotBitC";
+	src: url('AuX DotBitC.ttf');
+}
+
+@font-face {
+	font-family: "AuX DotBitC";
+	src: url('AuX DotBitC.ttf');
+}
+@font-face {
+	font-family: "Pixel_Berry";
+	src: url('Pixel_Berry.ttf');
+}
+@font-face {
+	font-family: "Pixelation";
+	src: url('Pixelation.ttf');
+}
+
+p.advoCut{
+	font-family: AdvoCut ; /* no .ttf */
+	font-weight: normal
+}
+
+p.adbxtra{
+	font-family: adbxtra ; /* no .ttf */
+	font-weight: normal
+}
+ p.adbxtsc{
+	font-family: adbxtsc ; /* no .ttf */
+	font-weight: normal
+}
+  p.AuX_DotBitC{
+	font-family: "AuX DotBitC" ; /* no .ttf */
+	font-weight: normal
+}
+  p.Pixel_Berry{
+	font-family: "Pixel_Berry" ; /* no .ttf */
+	font-size:100%;
+	
+	font-weight: normal
+}
+  p.Pixelation{
+	font-family: "Pixelation" ; /* no .ttf */
+	font-size:100%;
+	font-weight: normal
+}
+
